@@ -15,5 +15,8 @@
 
 <img width="1192" alt="image" src="https://github.com/user-attachments/assets/eeb4b124-ae53-4ad5-8a89-46907bb683dc" />
 
-以及在终端显示各类指数信息：
+
+以及在终端显示各类指数信息,包括NDVI，NDWI，NDBI等指数 ：
+
+
 <img width="203" alt="image" src="https://github.com/user-attachments/assets/b5a45f19-7fcd-4aef-9327-109930a4ded0" />
