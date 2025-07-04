@@ -5,7 +5,7 @@ import glob
 import os
 
 # === 参数配置 ===
-extract_dir = r"D:\360MoveData\Users\32843\Desktop\自然地理实习\原始数据\光谱曲线\data"
+extract_dir = r"" #这里输入你的数据地址
 wavelengths = [0.44, 0.48, 0.56, 0.65, 0.86, 1.6, 2.2]  # Landsat 9 OLI 波长
 colors = ['b', 'g', 'r', 'c', 'm', 'y', 'k']
 
